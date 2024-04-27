@@ -1,0 +1,14 @@
+{
+	"databaseVendor":{
+		"vendor": "mysql",
+		"origin": "oracle+cx_oracle://ergonBI:ergonBI@54.233.134.92:1521/ergon",
+		"originMS": "mysql+mysqlconnector://ergonBI:bhimA.123456.@localhost:3306/ergonbi"
+	},
+	"tableFunc":{
+		"nameTable": "qs_funcionarios"
+	},
+	"fileFunc":{
+		"nameFile": "D:/Techne/Extrator-BI/qs_funcionarios.parquet"
+	}
+	
+}
